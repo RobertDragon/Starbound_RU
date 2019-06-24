@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A board filled with coloured papersss."
+      "Eng": "A board filled with coloured papersss.",
+      "Rus": ""
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A board filled with seemingly unimportant information."
+      "Eng": "A board filled with seemingly unimportant information.",
+      "Rus": ""
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A hanging board with papers tacked on it."
+      "Eng": "A hanging board with papers tacked on it.",
+      "Rus": ""
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Looks t'me like a notice board."
+      "Eng": "Looks t'me like a notice board.",
+      "Rus": ""
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Office Noticeboard"
+      "Eng": "Office Noticeboard",
+      "Rus": "Офисная доска объявлений"
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The arrangement of these papers looks almost artistic."
+      "Eng": "The arrangement of these papers looks almost artistic.",
+      "Rus": ""
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "There are scattered pieces of information on this board, it may have been important to someone."
+      "Eng": "There are scattered pieces of information on this board, it may have been important to someone.",
+      "Rus": ""
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "There are various small bits of information attached to this board."
+      "Eng": "There are various small bits of information attached to this board.",
+      "Rus": ""
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This looks like a good place to post a reminder."
+      "Eng": "This looks like a good place to post a reminder.",
+      "Rus": ""
     }
   }
 ]
