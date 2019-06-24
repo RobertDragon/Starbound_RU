@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "An early-model personal computer from Earth."
+      "Eng": "An early-model personal computer from Earth.",
+      "Rus": ""
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Early computer processors required extremely large housings."
+      "Eng": "Early computer processors required extremely large housings.",
+      "Rus": ""
     }
   },
   {
@@ -29,7 +31,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Hard to believe this old computer is still working."
+      "Eng": "Hard to believe this old computer is still working.",
+      "Rus": ""
     }
   },
   {
@@ -40,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "It's hard to believe humans once spent hours starting at machines like this."
+      "Eng": "It's hard to believe humans once spent hours starting at machines like this.",
+      "Rus": ""
     }
   },
   {
@@ -51,7 +55,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Looks like an early model Earth computer."
+      "Eng": "Looks like an early model Earth computer.",
+      "Rus": ""
     }
   },
   {
@@ -62,7 +67,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Office Computer"
+      "Eng": "Office Computer",
+      "Rus": "Офисный Компьютер"
     }
   },
   {
@@ -73,7 +79,8 @@
       ]
     },
     "Texts": {
-      "Eng": "The design is very basic, but it's a real historical artifact."
+      "Eng": "The design is very basic, but it's a real historical artifact.",
+      "Rus": ""
     }
   },
   {
@@ -84,7 +91,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This old machine is ssstill running sssomehow."
+      "Eng": "This old machine is ssstill running sssomehow.",
+      "Rus": ""
     }
   },
   {
@@ -95,7 +103,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Wonder if there's any card games on this ol' machine."
+      "Eng": "Wonder if there's any card games on this ol' machine.",
+      "Rus": ""
     }
   }
 ]
